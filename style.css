@@ -1,0 +1,29 @@
+.container{
+    text-align: center;
+    margin: 200px 0;
+}
+.inp{
+    outline: none;
+    border: none;
+    height: 50px;
+    border-radius: 25px;
+    margin: 0.25rem;
+    transition: .5s;
+	font-size: 1.15rem;
+	width: 350px;
+}
+.btn{
+    outline: none;
+    border: none;
+    height: 40px;
+	width: 80px;
+	border-radius: 5px;
+    background-color: #ce6262;
+	cursor: pointer;
+	font-size: 20px;
+	color:#fff;
+}
+.email{
+    font-size: 25px;
+    margin: 50px;
+}
